@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/flipcardgame/static/css/main.8d591e5e.css",
+    "main.js": "/flipcardgame/static/js/main.2843d074.js",
+    "static/media/lemmling-Cartoon-goat.png": "/flipcardgame/static/media/lemmling-Cartoon-goat.29e6e1652acbe672edbf.png",
+    "static/media/lemmling-Cartoon-squirrel.png": "/flipcardgame/static/media/lemmling-Cartoon-squirrel.28d6fca9e88ad8f18699.png",
+    "static/media/lemmling-Cartoon-sheep.png": "/flipcardgame/static/media/lemmling-Cartoon-sheep.d7ad550b79573653f0c7.png",
+    "static/media/lemmling-Cartoon-bear.png": "/flipcardgame/static/media/lemmling-Cartoon-bear.06a0047644e7c93b0a03.png",
+    "static/media/lemmling-Cartoon-kangaroo.png": "/flipcardgame/static/media/lemmling-Cartoon-kangaroo.5f7945b63d2230ef9328.png",
+    "static/media/lemmling-Cartoon-giraffe.png": "/flipcardgame/static/media/lemmling-Cartoon-giraffe.5a9d8274943ce031ccc5.png",
+    "static/media/React-icon.svg.png": "/flipcardgame/static/media/React-icon.svg.8a6fc0a24a800d1e0f4a.png",
+    "index.html": "/flipcardgame/index.html",
+    "main.8d591e5e.css.map": "/flipcardgame/static/css/main.8d591e5e.css.map",
+    "main.2843d074.js.map": "/flipcardgame/static/js/main.2843d074.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d591e5e.css",
+    "static/js/main.2843d074.js"
+  ]
+}
