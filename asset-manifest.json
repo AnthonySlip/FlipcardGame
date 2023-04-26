@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FlipcardGame/static/css/main.ae2b265e.css",
-    "main.js": "/FlipcardGame/static/js/main.ab2f7a44.js",
+    "main.js": "/FlipcardGame/static/js/main.91f82fab.js",
     "static/media/lemmling-Cartoon-goat.png": "/FlipcardGame/static/media/lemmling-Cartoon-goat.29e6e1652acbe672edbf.png",
     "static/media/lemmling-Cartoon-squirrel.png": "/FlipcardGame/static/media/lemmling-Cartoon-squirrel.28d6fca9e88ad8f18699.png",
     "static/media/lemmling-Cartoon-sheep.png": "/FlipcardGame/static/media/lemmling-Cartoon-sheep.d7ad550b79573653f0c7.png",
@@ -11,10 +11,10 @@
     "static/media/React-icon.svg.png": "/FlipcardGame/static/media/React-icon.svg.8a6fc0a24a800d1e0f4a.png",
     "index.html": "/FlipcardGame/index.html",
     "main.ae2b265e.css.map": "/FlipcardGame/static/css/main.ae2b265e.css.map",
-    "main.ab2f7a44.js.map": "/FlipcardGame/static/js/main.ab2f7a44.js.map"
+    "main.91f82fab.js.map": "/FlipcardGame/static/js/main.91f82fab.js.map"
   },
   "entrypoints": [
     "static/css/main.ae2b265e.css",
-    "static/js/main.ab2f7a44.js"
+    "static/js/main.91f82fab.js"
   ]
 }
